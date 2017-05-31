@@ -1,0 +1,40 @@
+﻿@model IEnumerable<RestauranteStore.Entities.Entities.Almacen>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Inventario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EstadoAlm)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Inventario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EstadoAlm)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.AlmacenId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.AlmacenId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.AlmacenId })
+        </td>
+    </tr>
+}
+
+</table>

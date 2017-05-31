@@ -1,0 +1,58 @@
+﻿@model IEnumerable<RestauranteStore.Entities.Entities.Ingrediente>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Almacen.AlmacenId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PlatoComida.NomPlato)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cantidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreIng)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoIng)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Almacen.AlmacenId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PlatoComida.NomPlato)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cantidad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreIng)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoIng)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.IngredienteId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.IngredienteId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.IngredienteId })
+        </td>
+    </tr>
+}
+
+</table>

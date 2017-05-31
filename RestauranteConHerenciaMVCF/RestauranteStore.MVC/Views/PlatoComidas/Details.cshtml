@@ -1,0 +1,43 @@
+﻿@model RestauranteStore.Entities.Entities.PlatoComida
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PlatoComida</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pedido.Extra)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pedido.Extra)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NomPlato)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomPlato)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PlatoComidaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

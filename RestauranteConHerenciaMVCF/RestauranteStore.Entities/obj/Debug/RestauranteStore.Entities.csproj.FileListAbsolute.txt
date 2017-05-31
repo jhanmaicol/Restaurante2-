@@ -1,0 +1,15 @@
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Entities\bin\Debug\RestauranteStore.Entities.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Entities\bin\Debug\RestauranteStore.Entities.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Entities\obj\Debug\RestauranteStore.Entities.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Entities\obj\Debug\RestauranteStore.Entities.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Entities\obj\Debug\RestauranteStore.Entities.csprojResolveAssemblyReference.cache
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Entities\bin\Debug\RestauranteStore.Entities.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Entities\bin\Debug\RestauranteStore.Entities.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Entities\obj\Debug\RestauranteStore.Entities.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Entities\obj\Debug\RestauranteStore.Entities.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Entities\obj\Debug\RestauranteStore.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Entities\bin\Debug\RestauranteStore.Entities.dll
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Entities\bin\Debug\RestauranteStore.Entities.pdb
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Entities\obj\Debug\RestauranteStore.Entities.dll
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Entities\obj\Debug\RestauranteStore.Entities.pdb
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Entities\obj\Debug\RestauranteStore.Entities.csprojResolveAssemblyReference.cache

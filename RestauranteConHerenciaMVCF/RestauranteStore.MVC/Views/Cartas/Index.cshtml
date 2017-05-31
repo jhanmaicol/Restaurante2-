@@ -1,0 +1,52 @@
+﻿@model IEnumerable<RestauranteStore.Entities.Entities.Carta>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.EspecialidadDia.EspecialidadDiaId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Bebidas)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Menu)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Postres)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.EspecialidadDia.EspecialidadDiaId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Bebidas)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Menu)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Postres)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CartaId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CartaId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CartaId })
+        </td>
+    </tr>
+}
+
+</table>

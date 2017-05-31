@@ -1,0 +1,52 @@
+﻿@model IEnumerable<RestauranteStore.Entities.Entities.CancelarReserva>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hora)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumMesa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PersonaID)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fecha)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Hora)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumMesa)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PersonaID)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CancelarReservaId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CancelarReservaId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CancelarReservaId })
+        </td>
+    </tr>
+}
+
+</table>

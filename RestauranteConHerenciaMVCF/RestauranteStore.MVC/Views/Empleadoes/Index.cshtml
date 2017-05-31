@@ -1,0 +1,118 @@
+﻿@model IEnumerable<RestauranteStore.Entities.Entities.Empleado>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CancelarReserva.CancelarReservaId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Carta.CartaId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Reserva.ReservaId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoEmpleado.NomTipoEmp)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Turno.TurnoId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DNI)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NombrePersona)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApellidoPaterno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApellidoMaterno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaNacimiento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Telefono)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CancelarReservaId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ReservaId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreEmpleado)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CancelarReserva.CancelarReservaId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Carta.CartaId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Reserva.ReservaId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoEmpleado.NomTipoEmp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Turno.TurnoId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DNI)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombrePersona)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApellidoPaterno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApellidoMaterno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaNacimiento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Telefono)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CancelarReservaId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ReservaId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreEmpleado)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PersonaId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PersonaId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PersonaId })
+        </td>
+    </tr>
+}
+
+</table>

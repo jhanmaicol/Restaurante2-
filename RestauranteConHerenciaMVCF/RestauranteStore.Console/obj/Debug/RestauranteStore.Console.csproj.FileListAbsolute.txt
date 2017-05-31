@@ -1,0 +1,39 @@
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\bin\Debug\RestauranteStore.Console.exe.config
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\bin\Debug\RestauranteStore.Console.exe
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\bin\Debug\RestauranteStore.Console.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\bin\Debug\RestauranteStore.Entities.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\bin\Debug\RestauranteStore.Persistence.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\bin\Debug\EntityFramework.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\bin\Debug\RestauranteStore.Entities.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\bin\Debug\RestauranteStore.Persistence.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\bin\Debug\RestauranteStore.Persistence.dll.config
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\bin\Debug\EntityFramework.xml
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\obj\Debug\RestauranteStore.Console.csprojResolveAssemblyReference.cache
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\obj\Debug\RestauranteStore.Console.exe
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteStore\RestauranteStore.Console\obj\Debug\RestauranteStore.Console.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Console.exe.config
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Console.exe
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Console.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Entities.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Persistence.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\EntityFramework.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Entities.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Persistence.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Persistence.dll.config
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\EntityFramework.xml
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\obj\Debug\RestauranteStore.Console.csprojResolveAssemblyReference.cache
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\obj\Debug\RestauranteStore.Console.exe
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\RestauranteConHerencia\RestauranteStore.Console\obj\Debug\RestauranteStore.Console.pdb
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\obj\Debug\RestauranteStore.Console.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\obj\Debug\RestauranteStore.Console.exe
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\obj\Debug\RestauranteStore.Console.pdb
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Console.exe.config
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Console.exe
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Console.pdb
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Entities.dll
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Persistence.dll
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\EntityFramework.dll
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Entities.pdb
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Persistence.pdb
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\RestauranteStore.Persistence.dll.config
+C:\Users\Luis\Desktop\Programacion\RestauranteConHerencia\RestauranteStore.Console\bin\Debug\EntityFramework.xml
